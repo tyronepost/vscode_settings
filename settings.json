@@ -1,0 +1,10 @@
+// vscode settings.json
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editor.showTabs": false,
+    "vim.handleKeys": {
+        "<C-b>": false,
+        "<C-f>": false,
+        "<C-h>": false,
+    }
+}
